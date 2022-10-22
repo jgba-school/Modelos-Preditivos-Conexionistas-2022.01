@@ -4,7 +4,7 @@
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
 |--|--|--|
-|Detecção de Objetos|ex.: 75|ex.: 4|
+|Detecção de Objetos|75|4|
 
 ### Informações Adicionais
 
