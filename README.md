@@ -2151,6 +2151,10 @@ wandb: Find logs at: ./wandb/run-20221103_231305-i2cnnlrc/logs
 
 O modelo visa localizar 4 karts ao longo de retratos retirados de filmagens (nºs 40, 45, 50 e 65)
 
+![Matriz de confusão](https://user-images.githubusercontent.com/116410211/199860999-8900bd40-1baa-4be0-b564-e62f03df778b.png)
+
+![Metricas](https://user-images.githubusercontent.com/116410211/199861153-44cecb84-4489-4cf7-b77e-677fc9cdef62.png)
+
 ![Metricas](https://user-images.githubusercontent.com/116410211/199859458-9be294df-d880-4713-9f03-243758b99ea5.png)
 
 ![IA localizando placas](https://user-images.githubusercontent.com/116410211/199859339-cb8c6fed-7cb7-48e9-8ac2-41529e32c47f.png)
