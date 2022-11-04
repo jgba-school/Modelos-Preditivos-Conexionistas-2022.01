@@ -4,4 +4,5 @@
 
 ### Informações Adicionais
 
-### Modelo exportado (snapshot)
+### Modelo exportado (snapshot):
+best.pt
