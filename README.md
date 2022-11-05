@@ -2178,4 +2178,4 @@ IA localizando placas
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+[school_kart_plates](https://huggingface.co/spaces/jgba/school_kart_plates)
